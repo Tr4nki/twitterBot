@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Perform operations on twitter's api to get relevant data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tr4nki/twitterBot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "data"
+  ],
+  "author": "Jose Hijar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tr4nki/twitterBot/issues"
+  },
+  "homepage": "https://github.com/Tr4nki/twitterBot#readme"
+}
