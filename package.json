@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Tr4nki/twitterBot/issues"
   },
-  "homepage": "https://github.com/Tr4nki/twitterBot#readme"
+  "homepage": "https://github.com/Tr4nki/twitterBot#readme",
+  "dependencies": {
+    "bunyan": "^1.8.1"
+  }
 }
