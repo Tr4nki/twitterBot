@@ -1,0 +1,1 @@
+node -r ./config/logger.js index.js | bunyan -o inspect
